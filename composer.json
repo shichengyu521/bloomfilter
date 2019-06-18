@@ -1,0 +1,21 @@
+{
+  "name": "shichengyu521/bloomfilter",
+  "description": "this is a bloomfilter demo",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "scy1030503929",
+      "email": "1030503929@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bloomfilter\\": "src/Bloomfilter"
+    }
+  }
+}
