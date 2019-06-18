@@ -1,7 +1,7 @@
 {
   "name": "shichengyu521/bloomfilter",
   "description": "this is a bloomfilter demo",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
